@@ -1,0 +1,10 @@
+#dao : memory
+dao : database
+
+csv: 
+    issue: src/main/resources/csv/issue.csv
+    project: src/main/resources/csv/project.csv
+    user: src/main/resources/csv/user.csv 
+    
+
+        
